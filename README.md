@@ -13,7 +13,7 @@ npm install string-contains --save-dev
 
 ```js
 var contains = require("string-contains");
-console.log(contains("Hello world", "world");
+console.log(contains("Hello world", "world"));
 //=> 'true'
 ```
 
