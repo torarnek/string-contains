@@ -1,6 +1,6 @@
 # string-contains
 
-> Function to check if a string contains another string
+> Function that checks if a string contains another string.
 
 ## Install
 Install with [npm](http://www.npmjs.org):
