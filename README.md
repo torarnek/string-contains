@@ -3,7 +3,7 @@
 > Function to check if a string contains another string
 
 ## Install
-Install with [npm](http://npmjs.org):
+Install with [npm](http://www.npmjs.org):
 
 ```bash
 npm install string-contains --save-dev
@@ -13,7 +13,6 @@ npm install string-contains --save-dev
 
 ```js
 var contains = require("string-contains");
-
 console.log(contains("Hello world", "world");
 //=> 'true'
 ```
@@ -23,6 +22,7 @@ console.log(contains("Hello world", "world");
 **Tor Arne Kvaløy**
  
 + [github/torarnek](https://github.com/torarnek)
++ [twitter/torarnek](https://twitter.com/torarnek)
 
 ## License
 Copyright (c) 2014 Tor Arne Kvaløy, contributors.  
